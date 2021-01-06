@@ -625,4 +625,18 @@ module.exports = [
       'Chrome Extension',
     ]
   },
+  {
+    name: 'Alexander Rowsell',
+    description: 'Hardware hacker/embedded dev',
+    url: 'https://frozenelectronics.ca/',
+    twitter: '@FrozenElecBlog',
+    tags:[
+      'Embedded',
+      'Hardware hacker',
+      'Canadian hacker',
+      'C programming',
+      'Assembly language rules',
+      'Also Marko is Awesome',
+    ]
+  },
 ];
